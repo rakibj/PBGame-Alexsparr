@@ -1,0 +1,6385 @@
+fileFormatVersion: 2
+guid: 41498cd80406bc942946589a8e1a0d8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 663515848490770624
+    second: dungeon tileset calciumtrice_0
+  - first:
+      213: -1775875221550669181
+    second: dungeon tileset calciumtrice_1
+  - first:
+      213: 3342122638905033223
+    second: dungeon tileset calciumtrice_2
+  - first:
+      213: 7122762035266321520
+    second: dungeon tileset calciumtrice_3
+  - first:
+      213: -1734495584688879523
+    second: dungeon tileset calciumtrice_4
+  - first:
+      213: 839935915363231477
+    second: dungeon tileset calciumtrice_5
+  - first:
+      213: -1246673595385271595
+    second: dungeon tileset calciumtrice_6
+  - first:
+      213: -2865106398981404217
+    second: dungeon tileset calciumtrice_7
+  - first:
+      213: -4808623552077027834
+    second: dungeon tileset calciumtrice_8
+  - first:
+      213: 7836660516543368256
+    second: dungeon tileset calciumtrice_9
+  - first:
+      213: 3281500789498411800
+    second: dungeon tileset calciumtrice_10
+  - first:
+      213: -7668658076896116399
+    second: dungeon tileset calciumtrice_11
+  - first:
+      213: -1799722434188052868
+    second: dungeon tileset calciumtrice_12
+  - first:
+      213: 2038857676039151687
+    second: dungeon tileset calciumtrice_13
+  - first:
+      213: -670969399055716687
+    second: dungeon tileset calciumtrice_14
+  - first:
+      213: -5645682716818842529
+    second: dungeon tileset calciumtrice_15
+  - first:
+      213: 5459479388148624285
+    second: dungeon tileset calciumtrice_16
+  - first:
+      213: -9006568352457404261
+    second: dungeon tileset calciumtrice_17
+  - first:
+      213: 1485828987772834647
+    second: dungeon tileset calciumtrice_18
+  - first:
+      213: 2054468640663783476
+    second: dungeon tileset calciumtrice_19
+  - first:
+      213: 1207186566880236009
+    second: dungeon tileset calciumtrice_20
+  - first:
+      213: 6473173338084711956
+    second: dungeon tileset calciumtrice_21
+  - first:
+      213: -4118215189951334340
+    second: dungeon tileset calciumtrice_22
+  - first:
+      213: -1479546327239399589
+    second: dungeon tileset calciumtrice_23
+  - first:
+      213: 6091774264560398713
+    second: dungeon tileset calciumtrice_24
+  - first:
+      213: 3014437077149712303
+    second: dungeon tileset calciumtrice_25
+  - first:
+      213: 9013196122526398386
+    second: dungeon tileset calciumtrice_26
+  - first:
+      213: -2194841852368455837
+    second: dungeon tileset calciumtrice_27
+  - first:
+      213: -1442902135667932762
+    second: dungeon tileset calciumtrice_28
+  - first:
+      213: -6528622291059698149
+    second: dungeon tileset calciumtrice_29
+  - first:
+      213: -6946239111871579164
+    second: dungeon tileset calciumtrice_30
+  - first:
+      213: -7532120470699948138
+    second: dungeon tileset calciumtrice_31
+  - first:
+      213: -2211187077146919092
+    second: dungeon tileset calciumtrice_32
+  - first:
+      213: -7985438092616454420
+    second: dungeon tileset calciumtrice_33
+  - first:
+      213: -4686213109317006248
+    second: dungeon tileset calciumtrice_34
+  - first:
+      213: -2600364069447131167
+    second: dungeon tileset calciumtrice_35
+  - first:
+      213: 5503469467820469252
+    second: dungeon tileset calciumtrice_36
+  - first:
+      213: 7899446878627064943
+    second: dungeon tileset calciumtrice_37
+  - first:
+      213: 2870117371821169697
+    second: dungeon tileset calciumtrice_38
+  - first:
+      213: -3703448332450827613
+    second: dungeon tileset calciumtrice_39
+  - first:
+      213: 3158109666034402356
+    second: dungeon tileset calciumtrice_40
+  - first:
+      213: -655603575016344418
+    second: dungeon tileset calciumtrice_41
+  - first:
+      213: -9099526334624062265
+    second: dungeon tileset calciumtrice_42
+  - first:
+      213: 1399952318850205974
+    second: dungeon tileset calciumtrice_43
+  - first:
+      213: 7446544972108169522
+    second: dungeon tileset calciumtrice_44
+  - first:
+      213: -7328454129185551308
+    second: dungeon tileset calciumtrice_45
+  - first:
+      213: -3021948162085841939
+    second: dungeon tileset calciumtrice_46
+  - first:
+      213: 5430243553342058355
+    second: dungeon tileset calciumtrice_47
+  - first:
+      213: 1119311658002250686
+    second: dungeon tileset calciumtrice_48
+  - first:
+      213: -4969618944168792115
+    second: dungeon tileset calciumtrice_49
+  - first:
+      213: -4950151668820545145
+    second: dungeon tileset calciumtrice_50
+  - first:
+      213: -6619126908431069325
+    second: dungeon tileset calciumtrice_51
+  - first:
+      213: 6061795447974370507
+    second: dungeon tileset calciumtrice_52
+  - first:
+      213: -1404543664569585841
+    second: dungeon tileset calciumtrice_53
+  - first:
+      213: -7533512144213547314
+    second: dungeon tileset calciumtrice_54
+  - first:
+      213: 5340804730667932366
+    second: dungeon tileset calciumtrice_55
+  - first:
+      213: 5635468396751470282
+    second: dungeon tileset calciumtrice_56
+  - first:
+      213: 7522802356574879449
+    second: dungeon tileset calciumtrice_57
+  - first:
+      213: 1906161132237988265
+    second: dungeon tileset calciumtrice_58
+  - first:
+      213: -5275761235324374780
+    second: dungeon tileset calciumtrice_59
+  - first:
+      213: 7331581078481295507
+    second: dungeon tileset calciumtrice_60
+  - first:
+      213: 8456665981612960510
+    second: dungeon tileset calciumtrice_61
+  - first:
+      213: -3322404070992829996
+    second: dungeon tileset calciumtrice_62
+  - first:
+      213: -854373107774098131
+    second: dungeon tileset calciumtrice_63
+  - first:
+      213: -5187767442630732167
+    second: dungeon tileset calciumtrice_64
+  - first:
+      213: -2739362986047614093
+    second: dungeon tileset calciumtrice_65
+  - first:
+      213: 2588102993540282969
+    second: dungeon tileset calciumtrice_66
+  - first:
+      213: 6462817275712665602
+    second: dungeon tileset calciumtrice_67
+  - first:
+      213: -4698152869876637205
+    second: dungeon tileset calciumtrice_68
+  - first:
+      213: 2696252857127207290
+    second: dungeon tileset calciumtrice_69
+  - first:
+      213: 2768904874035460988
+    second: dungeon tileset calciumtrice_70
+  - first:
+      213: -4690175732579654842
+    second: dungeon tileset calciumtrice_71
+  - first:
+      213: 8820436265358708484
+    second: dungeon tileset calciumtrice_72
+  - first:
+      213: 2586475253919095988
+    second: dungeon tileset calciumtrice_73
+  - first:
+      213: -1650957813574086548
+    second: dungeon tileset calciumtrice_74
+  - first:
+      213: 7741501758851852865
+    second: dungeon tileset calciumtrice_75
+  - first:
+      213: -7353521500017793117
+    second: dungeon tileset calciumtrice_76
+  - first:
+      213: -6470168481089975195
+    second: dungeon tileset calciumtrice_77
+  - first:
+      213: 2223289159393247438
+    second: dungeon tileset calciumtrice_78
+  - first:
+      213: -5786168057274122712
+    second: dungeon tileset calciumtrice_79
+  - first:
+      213: -3028277660715833606
+    second: dungeon tileset calciumtrice_80
+  - first:
+      213: -7104847732536030886
+    second: dungeon tileset calciumtrice_81
+  - first:
+      213: 3904328994674652197
+    second: dungeon tileset calciumtrice_82
+  - first:
+      213: 4270384570570720872
+    second: dungeon tileset calciumtrice_83
+  - first:
+      213: 4255673010559312154
+    second: dungeon tileset calciumtrice_84
+  - first:
+      213: 8495421494871075243
+    second: dungeon tileset calciumtrice_85
+  - first:
+      213: -6206590480358462843
+    second: dungeon tileset calciumtrice_86
+  - first:
+      213: 245381674680166824
+    second: dungeon tileset calciumtrice_87
+  - first:
+      213: 8388113947992394149
+    second: dungeon tileset calciumtrice_88
+  - first:
+      213: -4079054080022583476
+    second: dungeon tileset calciumtrice_89
+  - first:
+      213: -6709018725888758698
+    second: dungeon tileset calciumtrice_90
+  - first:
+      213: -21271521343386133
+    second: dungeon tileset calciumtrice_91
+  - first:
+      213: 1544917742732733180
+    second: dungeon tileset calciumtrice_92
+  - first:
+      213: -7095927020005536207
+    second: dungeon tileset calciumtrice_93
+  - first:
+      213: -8404002052448872195
+    second: dungeon tileset calciumtrice_94
+  - first:
+      213: -8533716300907872178
+    second: dungeon tileset calciumtrice_95
+  - first:
+      213: -3174607819345666642
+    second: dungeon tileset calciumtrice_96
+  - first:
+      213: -5194825133938443660
+    second: dungeon tileset calciumtrice_97
+  - first:
+      213: 1564767149520675831
+    second: dungeon tileset calciumtrice_98
+  - first:
+      213: 5395023364546416800
+    second: dungeon tileset calciumtrice_99
+  - first:
+      213: 6111627819862880672
+    second: dungeon tileset calciumtrice_100
+  - first:
+      213: 8654984096107087958
+    second: dungeon tileset calciumtrice_101
+  - first:
+      213: 6370476068631550186
+    second: dungeon tileset calciumtrice_102
+  - first:
+      213: -679583959413084338
+    second: dungeon tileset calciumtrice_103
+  - first:
+      213: -2852118403657012676
+    second: dungeon tileset calciumtrice_104
+  - first:
+      213: 3848039771160661154
+    second: dungeon tileset calciumtrice_105
+  - first:
+      213: -7718989596062780420
+    second: dungeon tileset calciumtrice_106
+  - first:
+      213: 1973532410274557259
+    second: dungeon tileset calciumtrice_107
+  - first:
+      213: -6154248766311458471
+    second: dungeon tileset calciumtrice_108
+  - first:
+      213: 6265775683632318621
+    second: dungeon tileset calciumtrice_109
+  - first:
+      213: -1462048393128499715
+    second: dungeon tileset calciumtrice_110
+  - first:
+      213: 4173175919760249153
+    second: dungeon tileset calciumtrice_111
+  - first:
+      213: -4419223517669845297
+    second: dungeon tileset calciumtrice_112
+  - first:
+      213: 9052453035055823228
+    second: dungeon tileset calciumtrice_113
+  - first:
+      213: -5551019241917262143
+    second: dungeon tileset calciumtrice_114
+  - first:
+      213: -7666234128275040886
+    second: dungeon tileset calciumtrice_115
+  - first:
+      213: -9039363077220983141
+    second: dungeon tileset calciumtrice_116
+  - first:
+      213: -862129997877978288
+    second: dungeon tileset calciumtrice_117
+  - first:
+      213: 2774298611704027972
+    second: dungeon tileset calciumtrice_118
+  - first:
+      213: 6165557691733699823
+    second: dungeon tileset calciumtrice_119
+  - first:
+      213: 7113669762754789833
+    second: dungeon tileset calciumtrice_120
+  - first:
+      213: 4342568316942871320
+    second: dungeon tileset calciumtrice_121
+  - first:
+      213: -8084209372757094651
+    second: dungeon tileset calciumtrice_122
+  - first:
+      213: -5944783228428367806
+    second: dungeon tileset calciumtrice_123
+  - first:
+      213: -7046843227025251059
+    second: dungeon tileset calciumtrice_124
+  - first:
+      213: -8645951253653918916
+    second: dungeon tileset calciumtrice_125
+  - first:
+      213: 9117067750673626367
+    second: dungeon tileset calciumtrice_126
+  - first:
+      213: -4946252286046038705
+    second: dungeon tileset calciumtrice_127
+  - first:
+      213: 6546384426373763433
+    second: dungeon tileset calciumtrice_128
+  - first:
+      213: -8683213207514778883
+    second: dungeon tileset calciumtrice_129
+  - first:
+      213: 9090327017733530733
+    second: dungeon tileset calciumtrice_130
+  - first:
+      213: 2152108334848854605
+    second: dungeon tileset calciumtrice_131
+  - first:
+      213: 8233245289822866021
+    second: dungeon tileset calciumtrice_132
+  - first:
+      213: 1929423869680997826
+    second: dungeon tileset calciumtrice_133
+  - first:
+      213: 7534875828337747596
+    second: dungeon tileset calciumtrice_134
+  - first:
+      213: 6136316046512210141
+    second: dungeon tileset calciumtrice_135
+  - first:
+      213: 5254229690994319824
+    second: dungeon tileset calciumtrice_136
+  - first:
+      213: 3159361175104583802
+    second: dungeon tileset calciumtrice_137
+  - first:
+      213: 5788157418278113118
+    second: dungeon tileset calciumtrice_138
+  - first:
+      213: -8112945169660699638
+    second: dungeon tileset calciumtrice_139
+  - first:
+      213: -3858189625742299354
+    second: dungeon tileset calciumtrice_140
+  - first:
+      213: 3176153175967457831
+    second: dungeon tileset calciumtrice_141
+  - first:
+      213: 1417880076991995685
+    second: dungeon tileset calciumtrice_142
+  - first:
+      213: 3793119852099601365
+    second: dungeon tileset calciumtrice_143
+  - first:
+      213: 6856894929701617502
+    second: dungeon tileset calciumtrice_144
+  - first:
+      213: -2022615002299387845
+    second: dungeon tileset calciumtrice_145
+  - first:
+      213: 1197488073502306283
+    second: dungeon tileset calciumtrice_146
+  - first:
+      213: 1161606144558901437
+    second: dungeon tileset calciumtrice_147
+  - first:
+      213: 6207751671184844816
+    second: dungeon tileset calciumtrice_148
+  - first:
+      213: -6595354233778465013
+    second: dungeon tileset calciumtrice_149
+  - first:
+      213: -8981808455589018870
+    second: dungeon tileset calciumtrice_150
+  - first:
+      213: 5838991218057414392
+    second: dungeon tileset calciumtrice_151
+  - first:
+      213: -8578547967106271303
+    second: dungeon tileset calciumtrice_152
+  - first:
+      213: 7273962706826455815
+    second: dungeon tileset calciumtrice_153
+  - first:
+      213: 1440504589165189470
+    second: dungeon tileset calciumtrice_154
+  - first:
+      213: 4111553338534475521
+    second: dungeon tileset calciumtrice_155
+  - first:
+      213: -2010218360891725535
+    second: dungeon tileset calciumtrice_156
+  - first:
+      213: 5157184114786149413
+    second: dungeon tileset calciumtrice_157
+  - first:
+      213: 4426873486978866213
+    second: dungeon tileset calciumtrice_158
+  - first:
+      213: 5071806509059173099
+    second: dungeon tileset calciumtrice_159
+  - first:
+      213: 2559290035093613470
+    second: dungeon tileset calciumtrice_160
+  - first:
+      213: -5515719717881039867
+    second: dungeon tileset calciumtrice_161
+  - first:
+      213: -6278967347104277923
+    second: dungeon tileset calciumtrice_162
+  - first:
+      213: 1187530925345798951
+    second: dungeon tileset calciumtrice_163
+  - first:
+      213: -5291773842400166843
+    second: dungeon tileset calciumtrice_164
+  - first:
+      213: 6232497008537821343
+    second: dungeon tileset calciumtrice_165
+  - first:
+      213: 1049813838322835977
+    second: dungeon tileset calciumtrice_166
+  - first:
+      213: 2060598999859476907
+    second: dungeon tileset calciumtrice_167
+  - first:
+      213: 6131434866184194229
+    second: dungeon tileset calciumtrice_168
+  - first:
+      213: 1657840562652454357
+    second: dungeon tileset calciumtrice_169
+  - first:
+      213: -8485627922445486445
+    second: dungeon tileset calciumtrice_170
+  - first:
+      213: 6321805411131546201
+    second: dungeon tileset calciumtrice_171
+  - first:
+      213: -1943557899043261580
+    second: dungeon tileset calciumtrice_172
+  - first:
+      213: -6938329690360186452
+    second: dungeon tileset calciumtrice_173
+  - first:
+      213: -5533959333483701982
+    second: dungeon tileset calciumtrice_174
+  - first:
+      213: 6863440429882352161
+    second: dungeon tileset calciumtrice_175
+  - first:
+      213: -4273294320678630512
+    second: dungeon tileset calciumtrice_176
+  - first:
+      213: 8840232053195152927
+    second: dungeon tileset calciumtrice_177
+  - first:
+      213: 8479353054863562140
+    second: dungeon tileset calciumtrice_178
+  - first:
+      213: 2349599737449818483
+    second: dungeon tileset calciumtrice_179
+  - first:
+      213: 179141905752256128
+    second: dungeon tileset calciumtrice_180
+  - first:
+      213: -5990553137032964761
+    second: dungeon tileset calciumtrice_181
+  - first:
+      213: 6625293661940771498
+    second: dungeon tileset calciumtrice_182
+  - first:
+      213: 2395770939581662129
+    second: dungeon tileset calciumtrice_183
+  - first:
+      213: -3234673317979904285
+    second: dungeon tileset calciumtrice_184
+  - first:
+      213: 3306440953557100576
+    second: dungeon tileset calciumtrice_185
+  - first:
+      213: 8539303726083022130
+    second: dungeon tileset calciumtrice_186
+  - first:
+      213: -5823718048893099327
+    second: dungeon tileset calciumtrice_187
+  - first:
+      213: -7237384017814239748
+    second: dungeon tileset calciumtrice_188
+  - first:
+      213: -837733885289285127
+    second: dungeon tileset calciumtrice_189
+  - first:
+      213: -4247483606391917438
+    second: dungeon tileset calciumtrice_190
+  - first:
+      213: -5188614082828479754
+    second: dungeon tileset calciumtrice_191
+  - first:
+      213: 3381158962032724133
+    second: dungeon tileset calciumtrice_0
+  - first:
+      213: 4767478451471773839
+    second: dungeon tileset calciumtrice_1
+  - first:
+      213: 4536328387327308845
+    second: dungeon tileset calciumtrice_2
+  - first:
+      213: -1581275147040185256
+    second: dungeon tileset calciumtrice_3
+  - first:
+      213: 7563639465032151811
+    second: dungeon tileset calciumtrice_4
+  - first:
+      213: 4983196735464015602
+    second: dungeon tileset calciumtrice_5
+  - first:
+      213: 5655562358855819452
+    second: dungeon tileset calciumtrice_6
+  - first:
+      213: 7550752274427204612
+    second: dungeon tileset calciumtrice_7
+  - first:
+      213: 5288555835179042703
+    second: dungeon tileset calciumtrice_8
+  - first:
+      213: -5169804790100717670
+    second: dungeon tileset calciumtrice_9
+  - first:
+      213: 5025784052462409422
+    second: dungeon tileset calciumtrice_10
+  - first:
+      213: -8442253036514115818
+    second: dungeon tileset calciumtrice_11
+  - first:
+      213: -2024374451501151487
+    second: dungeon tileset calciumtrice_12
+  - first:
+      213: 4485220614356549920
+    second: dungeon tileset calciumtrice_13
+  - first:
+      213: 3372917074157900699
+    second: dungeon tileset calciumtrice_14
+  - first:
+      213: -1037621749134005009
+    second: dungeon tileset calciumtrice_15
+  - first:
+      213: 7271285860977345054
+    second: dungeon tileset calciumtrice_16
+  - first:
+      213: -4093858025685458723
+    second: dungeon tileset calciumtrice_17
+  - first:
+      213: -393764690657827663
+    second: dungeon tileset calciumtrice_18
+  - first:
+      213: -6628691642438105832
+    second: dungeon tileset calciumtrice_19
+  - first:
+      213: 4867071522309719022
+    second: dungeon tileset calciumtrice_20
+  - first:
+      213: -6203029795340558398
+    second: dungeon tileset calciumtrice_21
+  - first:
+      213: 2199990514502430094
+    second: dungeon tileset calciumtrice_22
+  - first:
+      213: 3574177505563494193
+    second: dungeon tileset calciumtrice_23
+  - first:
+      213: 5068807737191331466
+    second: dungeon tileset calciumtrice_24
+  - first:
+      213: 4091156347620055042
+    second: dungeon tileset calciumtrice_25
+  - first:
+      213: -8875443557298065519
+    second: dungeon tileset calciumtrice_26
+  - first:
+      213: 4192316162721640214
+    second: dungeon tileset calciumtrice_27
+  - first:
+      213: 7909824944214489580
+    second: dungeon tileset calciumtrice_28
+  - first:
+      213: 8308659497508093965
+    second: dungeon tileset calciumtrice_29
+  - first:
+      213: 3085348170059413184
+    second: dungeon tileset calciumtrice_30
+  - first:
+      213: -4768473505792641692
+    second: dungeon tileset calciumtrice_31
+  - first:
+      213: -9031143052689609451
+    second: dungeon tileset calciumtrice_32
+  - first:
+      213: -8539568371497524970
+    second: dungeon tileset calciumtrice_33
+  - first:
+      213: 4245948594116189793
+    second: dungeon tileset calciumtrice_34
+  - first:
+      213: -4900445361488640648
+    second: dungeon tileset calciumtrice_35
+  - first:
+      213: -2467252155123998422
+    second: dungeon tileset calciumtrice_36
+  - first:
+      213: -2652808731041940220
+    second: dungeon tileset calciumtrice_37
+  - first:
+      213: 6755915596853619817
+    second: dungeon tileset calciumtrice_38
+  - first:
+      213: -3087641628808807269
+    second: dungeon tileset calciumtrice_39
+  - first:
+      213: -1631233354847553672
+    second: dungeon tileset calciumtrice_40
+  - first:
+      213: 1881070100829208657
+    second: dungeon tileset calciumtrice_41
+  - first:
+      213: -4744645480123406744
+    second: dungeon tileset calciumtrice_42
+  - first:
+      213: 1523323474329760451
+    second: dungeon tileset calciumtrice_43
+  - first:
+      213: -158512120995955586
+    second: dungeon tileset calciumtrice_44
+  - first:
+      213: 3797760608305529196
+    second: dungeon tileset calciumtrice_45
+  - first:
+      213: 8514578180608957118
+    second: dungeon tileset calciumtrice_46
+  - first:
+      213: 1825510413880219230
+    second: dungeon tileset calciumtrice_47
+  - first:
+      213: -826505648259028720
+    second: dungeon tileset calciumtrice_48
+  - first:
+      213: 8435327953123761416
+    second: dungeon tileset calciumtrice_49
+  - first:
+      213: 3221441590728383863
+    second: dungeon tileset calciumtrice_50
+  - first:
+      213: -3870145175558127011
+    second: dungeon tileset calciumtrice_51
+  - first:
+      213: -8125455475935044464
+    second: dungeon tileset calciumtrice_52
+  - first:
+      213: -7469000346607816052
+    second: dungeon tileset calciumtrice_53
+  - first:
+      213: 3017440593246283408
+    second: dungeon tileset calciumtrice_54
+  - first:
+      213: -4198934738685696272
+    second: dungeon tileset calciumtrice_55
+  - first:
+      213: 3115568654323879079
+    second: dungeon tileset calciumtrice_56
+  - first:
+      213: 2839513582101863968
+    second: dungeon tileset calciumtrice_57
+  - first:
+      213: -8469686571270655358
+    second: dungeon tileset calciumtrice_58
+  - first:
+      213: 2683960226078723042
+    second: dungeon tileset calciumtrice_59
+  - first:
+      213: 1908405157190827084
+    second: dungeon tileset calciumtrice_60
+  - first:
+      213: 4570160743018854392
+    second: dungeon tileset calciumtrice_61
+  - first:
+      213: 8929299426037977954
+    second: dungeon tileset calciumtrice_62
+  - first:
+      213: -8517892422520541990
+    second: dungeon tileset calciumtrice_63
+  - first:
+      213: -3327288910592400504
+    second: dungeon tileset calciumtrice_64
+  - first:
+      213: 530941262296357622
+    second: dungeon tileset calciumtrice_65
+  - first:
+      213: -8528313814626362220
+    second: dungeon tileset calciumtrice_66
+  - first:
+      213: -4018632267452081463
+    second: dungeon tileset calciumtrice_67
+  - first:
+      213: 9097444417069383489
+    second: dungeon tileset calciumtrice_68
+  - first:
+      213: -3300751276557071146
+    second: dungeon tileset calciumtrice_69
+  - first:
+      213: -2176296094509307010
+    second: dungeon tileset calciumtrice_70
+  - first:
+      213: 1894132339877752256
+    second: dungeon tileset calciumtrice_71
+  - first:
+      213: 3911484756681130567
+    second: dungeon tileset calciumtrice_72
+  - first:
+      213: 124409761847929863
+    second: dungeon tileset calciumtrice_73
+  - first:
+      213: -4742328541520735136
+    second: dungeon tileset calciumtrice_74
+  - first:
+      213: -5867145984447625822
+    second: dungeon tileset calciumtrice_75
+  - first:
+      213: -7155391321213492533
+    second: dungeon tileset calciumtrice_76
+  - first:
+      213: -3313534235914899684
+    second: dungeon tileset calciumtrice_77
+  - first:
+      213: -5054960721679160263
+    second: dungeon tileset calciumtrice_78
+  - first:
+      213: -5667815475872485883
+    second: dungeon tileset calciumtrice_79
+  - first:
+      213: -1137850170030755189
+    second: dungeon tileset calciumtrice_80
+  - first:
+      213: 212406263663580080
+    second: dungeon tileset calciumtrice_81
+  - first:
+      213: 6391357251955844755
+    second: dungeon tileset calciumtrice_82
+  - first:
+      213: -2821873225667980996
+    second: dungeon tileset calciumtrice_83
+  - first:
+      213: 1194825846736244142
+    second: dungeon tileset calciumtrice_84
+  - first:
+      213: -3423075087382425930
+    second: dungeon tileset calciumtrice_85
+  - first:
+      213: -8501117201499980545
+    second: dungeon tileset calciumtrice_86
+  - first:
+      213: -1584747768643338416
+    second: dungeon tileset calciumtrice_87
+  - first:
+      213: 5716499480461116855
+    second: dungeon tileset calciumtrice_88
+  - first:
+      213: 2115401175877942254
+    second: dungeon tileset calciumtrice_89
+  - first:
+      213: -7106602243981368460
+    second: dungeon tileset calciumtrice_90
+  - first:
+      213: -491717943429634986
+    second: dungeon tileset calciumtrice_91
+  - first:
+      213: 2187798547095697921
+    second: dungeon tileset calciumtrice_92
+  - first:
+      213: 5608916315927858928
+    second: dungeon tileset calciumtrice_93
+  - first:
+      213: 277925878294428514
+    second: dungeon tileset calciumtrice_94
+  - first:
+      213: 3795367408270459240
+    second: dungeon tileset calciumtrice_95
+  - first:
+      213: -4454199880750083756
+    second: dungeon tileset calciumtrice_96
+  - first:
+      213: -1723275809480814376
+    second: dungeon tileset calciumtrice_97
+  - first:
+      213: -2331194967274608287
+    second: dungeon tileset calciumtrice_98
+  - first:
+      213: -3979070834477951713
+    second: dungeon tileset calciumtrice_99
+  - first:
+      213: 4628558983030473860
+    second: dungeon tileset calciumtrice_100
+  - first:
+      213: 5916018330367214478
+    second: dungeon tileset calciumtrice_101
+  - first:
+      213: 1867111904167854577
+    second: dungeon tileset calciumtrice_102
+  - first:
+      213: 293822247833008744
+    second: dungeon tileset calciumtrice_103
+  - first:
+      213: -4576871482599991712
+    second: dungeon tileset calciumtrice_104
+  - first:
+      213: 2664413851831586921
+    second: dungeon tileset calciumtrice_105
+  - first:
+      213: 7671290145740065329
+    second: dungeon tileset calciumtrice_106
+  - first:
+      213: 6666422037593175522
+    second: dungeon tileset calciumtrice_107
+  - first:
+      213: -5236029474425233866
+    second: dungeon tileset calciumtrice_108
+  - first:
+      213: 5205568486734130393
+    second: dungeon tileset calciumtrice_109
+  - first:
+      213: -1512726855811847011
+    second: dungeon tileset calciumtrice_110
+  - first:
+      213: 7502630442260027716
+    second: dungeon tileset calciumtrice_111
+  - first:
+      213: 3048859362783677835
+    second: dungeon tileset calciumtrice_112
+  - first:
+      213: -8802501635499170552
+    second: dungeon tileset calciumtrice_113
+  - first:
+      213: -3971754599494893829
+    second: dungeon tileset calciumtrice_114
+  - first:
+      213: 2793048218831089919
+    second: dungeon tileset calciumtrice_115
+  - first:
+      213: -6923243833580633388
+    second: dungeon tileset calciumtrice_116
+  - first:
+      213: -1604154235838917096
+    second: dungeon tileset calciumtrice_117
+  - first:
+      213: 3516924111828403766
+    second: dungeon tileset calciumtrice_118
+  - first:
+      213: 955935008494059698
+    second: dungeon tileset calciumtrice_119
+  - first:
+      213: -3797591695807104920
+    second: dungeon tileset calciumtrice_120
+  - first:
+      213: -7409220554663612054
+    second: dungeon tileset calciumtrice_121
+  - first:
+      213: -8660118876475070640
+    second: dungeon tileset calciumtrice_122
+  - first:
+      213: -1383138044868537668
+    second: dungeon tileset calciumtrice_123
+  - first:
+      213: -8911002612109066465
+    second: dungeon tileset calciumtrice_124
+  - first:
+      213: 2899531095776488188
+    second: dungeon tileset calciumtrice_125
+  - first:
+      213: -3166431798626444764
+    second: dungeon tileset calciumtrice_126
+  - first:
+      213: 6848901144610080180
+    second: dungeon tileset calciumtrice_127
+  - first:
+      213: -3704991668389118398
+    second: dungeon tileset calciumtrice_128
+  - first:
+      213: 7459672144840582534
+    second: dungeon tileset calciumtrice_129
+  - first:
+      213: 6150913746530880484
+    second: dungeon tileset calciumtrice_130
+  - first:
+      213: 5863619099515083666
+    second: dungeon tileset calciumtrice_131
+  - first:
+      213: 5988352888016872786
+    second: dungeon tileset calciumtrice_132
+  - first:
+      213: -7717934276869602989
+    second: dungeon tileset calciumtrice_133
+  - first:
+      213: 295292815535165604
+    second: dungeon tileset calciumtrice_134
+  - first:
+      213: -3329302317218943771
+    second: dungeon tileset calciumtrice_135
+  - first:
+      213: -8849662262620288558
+    second: dungeon tileset calciumtrice_136
+  - first:
+      213: -539450844693218767
+    second: dungeon tileset calciumtrice_137
+  - first:
+      213: -6986091004313254147
+    second: dungeon tileset calciumtrice_138
+  - first:
+      213: -4880911624954123828
+    second: dungeon tileset calciumtrice_139
+  - first:
+      213: 5235987798584643421
+    second: dungeon tileset calciumtrice_140
+  - first:
+      213: 8340727716160934578
+    second: dungeon tileset calciumtrice_141
+  - first:
+      213: -5158578416247382354
+    second: dungeon tileset calciumtrice_142
+  - first:
+      213: 290419458333369125
+    second: dungeon tileset calciumtrice_143
+  - first:
+      213: -6814854244001814741
+    second: dungeon tileset calciumtrice_144
+  - first:
+      213: 5760276666701982114
+    second: dungeon tileset calciumtrice_145
+  - first:
+      213: -1836744413484326167
+    second: dungeon tileset calciumtrice_146
+  - first:
+      213: -1794600114495773385
+    second: dungeon tileset calciumtrice_147
+  - first:
+      213: -5745135612439357951
+    second: dungeon tileset calciumtrice_148
+  - first:
+      213: 9221175127549305236
+    second: dungeon tileset calciumtrice_149
+  - first:
+      213: -4466557239422300380
+    second: dungeon tileset calciumtrice_150
+  - first:
+      213: -2450187662886171071
+    second: dungeon tileset calciumtrice_151
+  - first:
+      213: -5678079675988009639
+    second: dungeon tileset calciumtrice_152
+  - first:
+      213: -6653857810733892511
+    second: dungeon tileset calciumtrice_153
+  - first:
+      213: -3648604784306157415
+    second: dungeon tileset calciumtrice_154
+  - first:
+      213: -3713520830978485793
+    second: dungeon tileset calciumtrice_155
+  - first:
+      213: -8046047854830052579
+    second: dungeon tileset calciumtrice_156
+  - first:
+      213: 2774106023213120030
+    second: dungeon tileset calciumtrice_157
+  - first:
+      213: -5977812875791059873
+    second: dungeon tileset calciumtrice_158
+  - first:
+      213: -8913648549566308407
+    second: dungeon tileset calciumtrice_159
+  - first:
+      213: -2806395539201745441
+    second: dungeon tileset calciumtrice_160
+  - first:
+      213: -5334977265223440771
+    second: dungeon tileset calciumtrice_161
+  - first:
+      213: -3078337323628972350
+    second: dungeon tileset calciumtrice_162
+  - first:
+      213: -5895436122044266430
+    second: dungeon tileset calciumtrice_163
+  - first:
+      213: -6684524986445660856
+    second: dungeon tileset calciumtrice_164
+  - first:
+      213: -7026428834804456332
+    second: dungeon tileset calciumtrice_165
+  - first:
+      213: -6256052984022180641
+    second: dungeon tileset calciumtrice_166
+  - first:
+      213: -846487871928012266
+    second: dungeon tileset calciumtrice_167
+  - first:
+      213: -8116631643989802616
+    second: dungeon tileset calciumtrice_168
+  - first:
+      213: 7176425674265233417
+    second: dungeon tileset calciumtrice_169
+  - first:
+      213: -8549939419933261733
+    second: dungeon tileset calciumtrice_170
+  - first:
+      213: -5566889506789522424
+    second: dungeon tileset calciumtrice_171
+  - first:
+      213: -8853067569150053625
+    second: dungeon tileset calciumtrice_172
+  - first:
+      213: 118112640125044412
+    second: dungeon tileset calciumtrice_173
+  - first:
+      213: 7431893716040130039
+    second: dungeon tileset calciumtrice_174
+  - first:
+      213: -3870069908824871495
+    second: dungeon tileset calciumtrice_175
+  - first:
+      213: 6464904194250446647
+    second: dungeon tileset calciumtrice_176
+  - first:
+      213: 2118333411296971776
+    second: dungeon tileset calciumtrice_177
+  - first:
+      213: 7056009683070263992
+    second: dungeon tileset calciumtrice_178
+  - first:
+      213: 3300209601738132332
+    second: dungeon tileset calciumtrice_179
+  - first:
+      213: 2852776373625176749
+    second: dungeon tileset calciumtrice_180
+  - first:
+      213: 9193180267456415199
+    second: dungeon tileset calciumtrice_181
+  - first:
+      213: -720153102644977393
+    second: dungeon tileset calciumtrice_182
+  - first:
+      213: -2066808089759695218
+    second: dungeon tileset calciumtrice_183
+  - first:
+      213: 3568449760782114034
+    second: dungeon tileset calciumtrice_184
+  - first:
+      213: -9030787535081656041
+    second: dungeon tileset calciumtrice_185
+  - first:
+      213: 2428348602328296061
+    second: dungeon tileset calciumtrice_186
+  - first:
+      213: -353416458088424480
+    second: dungeon tileset calciumtrice_187
+  - first:
+      213: -9051278230540900891
+    second: dungeon tileset calciumtrice_188
+  - first:
+      213: 9175930170789337263
+    second: dungeon tileset calciumtrice_189
+  - first:
+      213: -3605343440467454985
+    second: dungeon tileset calciumtrice_190
+  - first:
+      213: 5634481006887576872
+    second: dungeon tileset calciumtrice_192
+  - first:
+      213: 5887078341040668910
+    second: dungeon tileset calciumtrice_193
+  - first:
+      213: 2030914061432245145
+    second: dungeon tileset calciumtrice_194
+  - first:
+      213: -5852317631062528406
+    second: dungeon tileset calciumtrice_195
+  - first:
+      213: -3491321110101016092
+    second: dungeon tileset calciumtrice_196
+  - first:
+      213: 1372616457838768847
+    second: dungeon tileset calciumtrice_197
+  - first:
+      213: 2861709853260051205
+    second: dungeon tileset calciumtrice_198
+  - first:
+      213: -5426340846032977882
+    second: dungeon tileset calciumtrice_199
+  - first:
+      213: 2985945498997604584
+    second: dungeon tileset calciumtrice_200
+  - first:
+      213: -8968869802095816564
+    second: dungeon tileset calciumtrice_201
+  - first:
+      213: 4900644131061334842
+    second: dungeon tileset calciumtrice_202
+  - first:
+      213: -8658569475392099839
+    second: dungeon tileset calciumtrice_203
+  - first:
+      213: -3033170431052567642
+    second: dungeon tileset calciumtrice_204
+  - first:
+      213: -2540083336449210595
+    second: dungeon tileset calciumtrice_205
+  - first:
+      213: 5786140211110348298
+    second: dungeon tileset calciumtrice_206
+  - first:
+      213: 8284771981398694934
+    second: dungeon tileset calciumtrice_207
+  - first:
+      213: -154306348728173835
+    second: dungeon tileset calciumtrice_208
+  - first:
+      213: 7349995470438447001
+    second: dungeon tileset calciumtrice_209
+  - first:
+      213: 4861405871864412085
+    second: dungeon tileset calciumtrice_210
+  - first:
+      213: 524010742129699873
+    second: dungeon tileset calciumtrice_211
+  - first:
+      213: -5912058456032645201
+    second: dungeon tileset calciumtrice_212
+  - first:
+      213: 6372236771294093826
+    second: dungeon tileset calciumtrice_213
+  - first:
+      213: 1828425022104782519
+    second: dungeon tileset calciumtrice_214
+  - first:
+      213: 722751877884065461
+    second: dungeon tileset calciumtrice_215
+  - first:
+      213: 5386508185879230032
+    second: dungeon tileset calciumtrice_216
+  - first:
+      213: 2934650296486322277
+    second: dungeon tileset calciumtrice_217
+  - first:
+      213: -3618782780524805917
+    second: dungeon tileset calciumtrice_218
+  - first:
+      213: -6857619999268202620
+    second: dungeon tileset calciumtrice_219
+  - first:
+      213: 247017210237052512
+    second: dungeon tileset calciumtrice_220
+  - first:
+      213: -3648210904431987124
+    second: dungeon tileset calciumtrice_221
+  - first:
+      213: -5068030868365578715
+    second: dungeon tileset calciumtrice_222
+  - first:
+      213: -1370561424614756690
+    second: dungeon tileset calciumtrice_223
+  - first:
+      213: -3884380729020481108
+    second: dungeon tileset calciumtrice_224
+  - first:
+      213: -7596827433752564233
+    second: dungeon tileset calciumtrice_225
+  - first:
+      213: -748181542206933732
+    second: dungeon tileset calciumtrice_226
+  - first:
+      213: -3515490161637168486
+    second: dungeon tileset calciumtrice_227
+  - first:
+      213: -4798994936151558467
+    second: dungeon tileset calciumtrice_228
+  - first:
+      213: 7759855809349387025
+    second: dungeon tileset calciumtrice_229
+  - first:
+      213: 4879128258346498809
+    second: dungeon tileset calciumtrice_230
+  - first:
+      213: -4445496875520669342
+    second: dungeon tileset calciumtrice_231
+  - first:
+      213: -3093151396585909856
+    second: dungeon tileset calciumtrice_232
+  - first:
+      213: -5371110169176190227
+    second: dungeon tileset calciumtrice_233
+  - first:
+      213: 3271529630940310810
+    second: dungeon tileset calciumtrice_234
+  - first:
+      213: -6537749022974756470
+    second: dungeon tileset calciumtrice_235
+  - first:
+      213: -6499918605186273911
+    second: dungeon tileset calciumtrice_236
+  - first:
+      213: -8535443637345438782
+    second: dungeon tileset calciumtrice_237
+  - first:
+      213: -6579866375551379453
+    second: dungeon tileset calciumtrice_238
+  - first:
+      213: -4771577389862638067
+    second: dungeon tileset calciumtrice_239
+  - first:
+      213: -1953820090611360437
+    second: dungeon tileset calciumtrice_240
+  - first:
+      213: 4614510506675453027
+    second: dungeon tileset calciumtrice_241
+  - first:
+      213: 816350563101020254
+    second: dungeon tileset calciumtrice_242
+  - first:
+      213: 6872045878246959651
+    second: dungeon tileset calciumtrice_243
+  - first:
+      213: 6523671806676223134
+    second: dungeon tileset calciumtrice_244
+  - first:
+      213: -5325887996112020345
+    second: dungeon tileset calciumtrice_245
+  - first:
+      213: -2887196343623840771
+    second: dungeon tileset calciumtrice_246
+  - first:
+      213: -2533583471090585347
+    second: dungeon tileset calciumtrice_247
+  - first:
+      213: 4707712671508073852
+    second: dungeon tileset calciumtrice_248
+  - first:
+      213: -6939856074857438604
+    second: dungeon tileset calciumtrice_249
+  - first:
+      213: -7489367463993603400
+    second: dungeon tileset calciumtrice_250
+  - first:
+      213: 6105243631794358320
+    second: dungeon tileset calciumtrice_251
+  - first:
+      213: 5567149417062384581
+    second: dungeon tileset calciumtrice_252
+  - first:
+      213: 3529307498023876742
+    second: dungeon tileset calciumtrice_253
+  - first:
+      213: 7689582061722619691
+    second: dungeon tileset calciumtrice_254
+  - first:
+      213: 7798209066941522401
+    second: dungeon tileset calciumtrice_255
+  - first:
+      213: -2767389655034731555
+    second: dungeon tileset calciumtrice_256
+  - first:
+      213: -4576077021496245319
+    second: dungeon tileset calciumtrice_257
+  - first:
+      213: -9005117164860328223
+    second: dungeon tileset calciumtrice_258
+  - first:
+      213: 8241009879635436223
+    second: dungeon tileset calciumtrice_259
+  - first:
+      213: 3832372218447081984
+    second: dungeon tileset calciumtrice_260
+  - first:
+      213: -1422839007809714315
+    second: dungeon tileset calciumtrice_261
+  - first:
+      213: 3223693381461961052
+    second: dungeon tileset calciumtrice_262
+  - first:
+      213: -7391544720792468663
+    second: dungeon tileset calciumtrice_263
+  - first:
+      213: -2091575272206045117
+    second: dungeon tileset calciumtrice_264
+  - first:
+      213: 2072442163736390748
+    second: dungeon tileset calciumtrice_265
+  - first:
+      213: 6746420798512782654
+    second: dungeon tileset calciumtrice_266
+  - first:
+      213: -5921864313780656447
+    second: dungeon tileset calciumtrice_267
+  - first:
+      213: 350408500822691836
+    second: dungeon tileset calciumtrice_268
+  - first:
+      213: -1247349124836898003
+    second: dungeon tileset calciumtrice_269
+  - first:
+      213: 5066767667502484947
+    second: dungeon tileset calciumtrice_270
+  - first:
+      213: -5020012667352279583
+    second: dungeon tileset calciumtrice_271
+  - first:
+      213: 5564501909238568633
+    second: dungeon tileset calciumtrice_272
+  - first:
+      213: 303894345789033514
+    second: dungeon tileset calciumtrice_273
+  - first:
+      213: 1900713971003933311
+    second: dungeon tileset calciumtrice_274
+  - first:
+      213: 7576770830789010271
+    second: dungeon tileset calciumtrice_275
+  - first:
+      213: 3701645146879739583
+    second: dungeon tileset calciumtrice_276
+  - first:
+      213: 2754111015563535891
+    second: dungeon tileset calciumtrice_277
+  - first:
+      213: -2850397011575844979
+    second: dungeon tileset calciumtrice_278
+  - first:
+      213: 6832598975106096810
+    second: dungeon tileset calciumtrice_279
+  - first:
+      213: -7701973532912158156
+    second: dungeon tileset calciumtrice_280
+  - first:
+      213: 6662989973664201548
+    second: dungeon tileset calciumtrice_281
+  - first:
+      213: -3674567169758648384
+    second: dungeon tileset calciumtrice_282
+  - first:
+      213: 3075285570854703864
+    second: dungeon tileset calciumtrice_283
+  - first:
+      213: -771355725737657729
+    second: dungeon tileset calciumtrice_284
+  - first:
+      213: -847030917361602083
+    second: dungeon tileset calciumtrice_285
+  - first:
+      213: -1741785736883856449
+    second: dungeon tileset calciumtrice_286
+  - first:
+      213: 3729492901637285881
+    second: dungeon tileset calciumtrice_287
+  - first:
+      213: 321101633490472936
+    second: dungeon tileset calciumtrice_288
+  - first:
+      213: -5536995458811276472
+    second: dungeon tileset calciumtrice_289
+  - first:
+      213: -5404878270432360304
+    second: dungeon tileset calciumtrice_290
+  - first:
+      213: 5099773082423115570
+    second: dungeon tileset calciumtrice_291
+  - first:
+      213: -6742509713138957061
+    second: dungeon tileset calciumtrice_292
+  - first:
+      213: 6637494582954810479
+    second: dungeon tileset calciumtrice_293
+  - first:
+      213: 7820849257577157678
+    second: dungeon tileset calciumtrice_294
+  - first:
+      213: -32666606825964385
+    second: dungeon tileset calciumtrice_295
+  - first:
+      213: 2751910492206778452
+    second: dungeon tileset calciumtrice_296
+  - first:
+      213: -7833404714118278933
+    second: dungeon tileset calciumtrice_297
+  - first:
+      213: 1985034382991613046
+    second: dungeon tileset calciumtrice_298
+  - first:
+      213: -7311583498274022968
+    second: dungeon tileset calciumtrice_299
+  - first:
+      213: -281607607843387787
+    second: dungeon tileset calciumtrice_300
+  - first:
+      213: -6112734869895659877
+    second: dungeon tileset calciumtrice_301
+  - first:
+      213: 3980813687375996858
+    second: dungeon tileset calciumtrice_302
+  - first:
+      213: 7597714107452375742
+    second: dungeon tileset calciumtrice_303
+  - first:
+      213: 5568301328099023183
+    second: dungeon tileset calciumtrice_304
+  - first:
+      213: -6698285881715109295
+    second: dungeon tileset calciumtrice_305
+  - first:
+      213: 2423504690107883930
+    second: dungeon tileset calciumtrice_306
+  - first:
+      213: -1936494945611159196
+    second: dungeon tileset calciumtrice_307
+  - first:
+      213: 4075247133898260382
+    second: dungeon tileset calciumtrice_308
+  - first:
+      213: 3958279951801268558
+    second: dungeon tileset calciumtrice_309
+  - first:
+      213: -8904390058468152341
+    second: dungeon tileset calciumtrice_310
+  - first:
+      213: -3536885031351413206
+    second: dungeon tileset calciumtrice_311
+  - first:
+      213: -5836023360488537534
+    second: dungeon tileset calciumtrice_312
+  - first:
+      213: 980100413263325057
+    second: dungeon tileset calciumtrice_313
+  - first:
+      213: -7830562010345027193
+    second: dungeon tileset calciumtrice_314
+  - first:
+      213: 6492717374308946669
+    second: dungeon tileset calciumtrice_315
+  - first:
+      213: -877492300834680244
+    second: dungeon tileset calciumtrice_316
+  - first:
+      213: -931472218561105222
+    second: dungeon tileset calciumtrice_317
+  - first:
+      213: -3199202367527480331
+    second: dungeon tileset calciumtrice_318
+  - first:
+      213: 7673374824280740039
+    second: dungeon tileset calciumtrice_319
+  - first:
+      213: -7410019919028770527
+    second: dungeon tileset calciumtrice_320
+  - first:
+      213: -5821230000136512899
+    second: dungeon tileset calciumtrice_321
+  - first:
+      213: -5162962889486366053
+    second: dungeon tileset calciumtrice_322
+  - first:
+      213: -5247573193379519538
+    second: dungeon tileset calciumtrice_323
+  - first:
+      213: -540056432554546902
+    second: dungeon tileset calciumtrice_324
+  - first:
+      213: 4307727449072272813
+    second: dungeon tileset calciumtrice_325
+  - first:
+      213: 4943370368573992202
+    second: dungeon tileset calciumtrice_326
+  - first:
+      213: -8883729510109703397
+    second: dungeon tileset calciumtrice_327
+  - first:
+      213: 1728542796116725191
+    second: dungeon tileset calciumtrice_328
+  - first:
+      213: -6783091444196088649
+    second: dungeon tileset calciumtrice_329
+  - first:
+      213: -1317098933617523051
+    second: dungeon tileset calciumtrice_330
+  - first:
+      213: 4221538579364750676
+    second: dungeon tileset calciumtrice_331
+  - first:
+      213: 5305646471351700384
+    second: dungeon tileset calciumtrice_332
+  - first:
+      213: -8788175632874352452
+    second: dungeon tileset calciumtrice_333
+  - first:
+      213: 6993176446259132905
+    second: dungeon tileset calciumtrice_334
+  - first:
+      213: -2193890735331787326
+    second: dungeon tileset calciumtrice_335
+  - first:
+      213: -7117263429342811619
+    second: dungeon tileset calciumtrice_336
+  - first:
+      213: 9108564602036618632
+    second: dungeon tileset calciumtrice_337
+  - first:
+      213: 8351826761275455812
+    second: dungeon tileset calciumtrice_338
+  - first:
+      213: 604214657404867692
+    second: dungeon tileset calciumtrice_339
+  - first:
+      213: -6281751767589509279
+    second: dungeon tileset calciumtrice_340
+  - first:
+      213: 3043422707596059424
+    second: dungeon tileset calciumtrice_341
+  - first:
+      213: 2504216294542673065
+    second: dungeon tileset calciumtrice_342
+  - first:
+      213: -2353707348321349403
+    second: dungeon tileset calciumtrice_343
+  - first:
+      213: -2920118781828356950
+    second: dungeon tileset calciumtrice_344
+  - first:
+      213: 8692967985827054824
+    second: dungeon tileset calciumtrice_345
+  - first:
+      213: 6046083056932230995
+    second: dungeon tileset calciumtrice_346
+  - first:
+      213: 8876948298890138414
+    second: dungeon tileset calciumtrice_347
+  - first:
+      213: -6676795776990098434
+    second: dungeon tileset calciumtrice_348
+  - first:
+      213: 2332023802928888524
+    second: dungeon tileset calciumtrice_349
+  - first:
+      213: -82099149442446459
+    second: dungeon tileset calciumtrice_350
+  - first:
+      213: -5835002963832410048
+    second: dungeon tileset calciumtrice_351
+  - first:
+      213: 7580553098489670191
+    second: dungeon tileset calciumtrice_352
+  - first:
+      213: -4872689612608939797
+    second: dungeon tileset calciumtrice_353
+  - first:
+      213: -3804517700838517745
+    second: dungeon tileset calciumtrice_354
+  - first:
+      213: 745312841016683697
+    second: dungeon tileset calciumtrice_355
+  - first:
+      213: 4047016611781566714
+    second: dungeon tileset calciumtrice_356
+  - first:
+      213: 895140037322800210
+    second: dungeon tileset calciumtrice_357
+  - first:
+      213: -385678965295173307
+    second: dungeon tileset calciumtrice_358
+  - first:
+      213: -2796506323068005251
+    second: dungeon tileset calciumtrice_359
+  - first:
+      213: 9012825661073192117
+    second: dungeon tileset calciumtrice_360
+  - first:
+      213: -5485998202536943592
+    second: dungeon tileset calciumtrice_361
+  - first:
+      213: 5439124602599685105
+    second: dungeon tileset calciumtrice_362
+  - first:
+      213: -6002955223712745223
+    second: dungeon tileset calciumtrice_363
+  - first:
+      213: -4289263602068952522
+    second: dungeon tileset calciumtrice_364
+  - first:
+      213: -3722160185889124461
+    second: dungeon tileset calciumtrice_365
+  - first:
+      213: 6521289471357763392
+    second: dungeon tileset calciumtrice_366
+  - first:
+      213: 3767519614906346314
+    second: dungeon tileset calciumtrice_367
+  - first:
+      213: 6790006509636471295
+    second: dungeon tileset calciumtrice_368
+  - first:
+      213: -2380752151613864557
+    second: dungeon tileset calciumtrice_369
+  - first:
+      213: -8916463644414979113
+    second: dungeon tileset calciumtrice_370
+  - first:
+      213: -4971139714917797196
+    second: dungeon tileset calciumtrice_371
+  - first:
+      213: 6367783617940622487
+    second: dungeon tileset calciumtrice_372
+  - first:
+      213: -1444395413477793139
+    second: dungeon tileset calciumtrice_373
+  - first:
+      213: -7936373937487932052
+    second: dungeon tileset calciumtrice_374
+  - first:
+      213: -7419273844913014824
+    second: dungeon tileset calciumtrice_375
+  - first:
+      213: 8701128632042164773
+    second: dungeon tileset calciumtrice_376
+  - first:
+      213: -1617418466083121761
+    second: dungeon tileset calciumtrice_377
+  - first:
+      213: -5272772973871432336
+    second: dungeon tileset calciumtrice_378
+  - first:
+      213: 5779865786269144490
+    second: dungeon tileset calciumtrice_379
+  - first:
+      213: 8762745873269441065
+    second: dungeon tileset calciumtrice_380
+  - first:
+      213: -694303227853934503
+    second: dungeon tileset calciumtrice_381
+  - first:
+      213: 4730705277303837330
+    second: dungeon tileset calciumtrice_382
+  - first:
+      213: 643395363478402223
+    second: dungeon tileset calciumtrice_383
+  - first:
+      213: -2055106421952619490
+    second: dungeon tileset calciumtrice_384
+  - first:
+      213: -1950191783094183860
+    second: dungeon tileset calciumtrice_385
+  - first:
+      213: -8065670585057638250
+    second: dungeon tileset calciumtrice_386
+  - first:
+      213: -2365927410395408319
+    second: dungeon tileset calciumtrice_387
+  - first:
+      213: 517475090271490857
+    second: dungeon tileset calciumtrice_388
+  - first:
+      213: 5188562315865690908
+    second: dungeon tileset calciumtrice_389
+  - first:
+      213: -8004208936722045177
+    second: dungeon tileset calciumtrice_390
+  - first:
+      213: 2455593482948323790
+    second: dungeon tileset calciumtrice_391
+  - first:
+      213: 5541936469378476674
+    second: dungeon tileset calciumtrice_392
+  - first:
+      213: 658903863325042352
+    second: dungeon tileset calciumtrice_393
+  - first:
+      213: -1777069518676535510
+    second: dungeon tileset calciumtrice_394
+  - first:
+      213: -8132100516786894199
+    second: dungeon tileset calciumtrice_395
+  - first:
+      213: -4006656401486968158
+    second: dungeon tileset calciumtrice_396
+  - first:
+      213: 5454975897635994166
+    second: dungeon tileset calciumtrice_397
+  - first:
+      213: -66996219718851868
+    second: dungeon tileset calciumtrice_398
+  - first:
+      213: 7666362299701678361
+    second: dungeon tileset calciumtrice_399
+  - first:
+      213: -5638263910387047802
+    second: dungeon tileset calciumtrice_400
+  - first:
+      213: 2604400062722878109
+    second: dungeon tileset calciumtrice_401
+  - first:
+      213: 7770326567916683312
+    second: dungeon tileset calciumtrice_402
+  - first:
+      213: 7450441514949893350
+    second: dungeon tileset calciumtrice_403
+  - first:
+      213: -5520894309861331608
+    second: dungeon tileset calciumtrice_404
+  - first:
+      213: 5386951054538491074
+    second: dungeon tileset calciumtrice_405
+  - first:
+      213: -6023231232225940539
+    second: dungeon tileset calciumtrice_406
+  - first:
+      213: -4216656518604847595
+    second: dungeon tileset calciumtrice_407
+  - first:
+      213: -5201395344319629670
+    second: dungeon tileset calciumtrice_408
+  - first:
+      213: -5648960997429306933
+    second: dungeon tileset calciumtrice_409
+  - first:
+      213: 2925903754131375811
+    second: dungeon tileset calciumtrice_410
+  - first:
+      213: 9110390841596411778
+    second: dungeon tileset calciumtrice_411
+  - first:
+      213: -3525754034459818197
+    second: dungeon tileset calciumtrice_412
+  - first:
+      213: -6054112448997421339
+    second: dungeon tileset calciumtrice_413
+  - first:
+      213: -757093365313638605
+    second: dungeon tileset calciumtrice_414
+  - first:
+      213: -3566384730440526097
+    second: dungeon tileset calciumtrice_415
+  - first:
+      213: 1933822803053725287
+    second: dungeon tileset calciumtrice_416
+  - first:
+      213: 1748158898802873879
+    second: dungeon tileset calciumtrice_417
+  - first:
+      213: 7532315529611540325
+    second: dungeon tileset calciumtrice_418
+  - first:
+      213: -3581150353282215534
+    second: dungeon tileset calciumtrice_419
+  - first:
+      213: 1325961164863869488
+    second: dungeon tileset calciumtrice_420
+  - first:
+      213: 4393999573625671573
+    second: dungeon tileset calciumtrice_421
+  - first:
+      213: -7684540064999745612
+    second: dungeon tileset calciumtrice_422
+  - first:
+      213: -5792625782307340356
+    second: dungeon tileset calciumtrice_423
+  - first:
+      213: 4534101848597445284
+    second: dungeon tileset calciumtrice_424
+  - first:
+      213: 7373992173916513612
+    second: dungeon tileset calciumtrice_425
+  - first:
+      213: -1375227364578698434
+    second: dungeon tileset calciumtrice_426
+  - first:
+      213: -1808563828455763954
+    second: dungeon tileset calciumtrice_427
+  - first:
+      213: -8794040697685627647
+    second: dungeon tileset calciumtrice_428
+  - first:
+      213: 8620080460515388906
+    second: dungeon tileset calciumtrice_429
+  - first:
+      213: -1678442691910097515
+    second: dungeon tileset calciumtrice_430
+  - first:
+      213: 2626386881975198123
+    second: dungeon tileset calciumtrice_431
+  - first:
+      213: -7862392582205952326
+    second: dungeon tileset calciumtrice_432
+  - first:
+      213: -57301172199915021
+    second: dungeon tileset calciumtrice_433
+  - first:
+      213: 3342202470406376202
+    second: dungeon tileset calciumtrice_434
+  - first:
+      213: -2693502135376671387
+    second: dungeon tileset calciumtrice_435
+  - first:
+      213: -2656475936970534408
+    second: dungeon tileset calciumtrice_436
+  - first:
+      213: 5193096354383795031
+    second: dungeon tileset calciumtrice_437
+  - first:
+      213: 3213864909797570912
+    second: dungeon tileset calciumtrice_438
+  - first:
+      213: -8186990513626521559
+    second: dungeon tileset calciumtrice_439
+  - first:
+      213: -1580352329961793082
+    second: dungeon tileset calciumtrice_440
+  - first:
+      213: -835196397968940369
+    second: dungeon tileset calciumtrice_441
+  - first:
+      213: -7206354871768821451
+    second: dungeon tileset calciumtrice_442
+  - first:
+      213: 3760963568081552668
+    second: dungeon tileset calciumtrice_443
+  - first:
+      213: 3150764557870332395
+    second: dungeon tileset calciumtrice_444
+  - first:
+      213: 6606839360637217889
+    second: dungeon tileset calciumtrice_445
+  - first:
+      213: 564561961456457580
+    second: dungeon tileset calciumtrice_446
+  - first:
+      213: -2502701007990298644
+    second: dungeon tileset calciumtrice_447
+  - first:
+      213: 134309617895186945
+    second: dungeon tileset calciumtrice_448
+  - first:
+      213: 172921067905738373
+    second: dungeon tileset calciumtrice_449
+  - first:
+      213: 2101929798085868464
+    second: dungeon tileset calciumtrice_450
+  - first:
+      213: 1655040054424943190
+    second: dungeon tileset calciumtrice_451
+  - first:
+      213: 93220349750077376
+    second: dungeon tileset calciumtrice_452
+  - first:
+      213: -4663036118013666030
+    second: dungeon tileset calciumtrice_453
+  - first:
+      213: -8508176437277498553
+    second: dungeon tileset calciumtrice_454
+  - first:
+      213: 3507511615066043612
+    second: dungeon tileset calciumtrice_455
+  - first:
+      213: 7236044574698500983
+    second: dungeon tileset calciumtrice_456
+  - first:
+      213: -665855859160635218
+    second: dungeon tileset calciumtrice_457
+  - first:
+      213: 2362918235899401116
+    second: dungeon tileset calciumtrice_458
+  - first:
+      213: 3435492662108752867
+    second: dungeon tileset calciumtrice_459
+  - first:
+      213: -7839597795099930776
+    second: dungeon tileset calciumtrice_460
+  - first:
+      213: 2937398990280698170
+    second: dungeon tileset calciumtrice_461
+  - first:
+      213: 6754096205459421294
+    second: dungeon tileset calciumtrice_462
+  - first:
+      213: -640144618416614477
+    second: dungeon tileset calciumtrice_463
+  - first:
+      213: -3829116514787339619
+    second: dungeon tileset calciumtrice_464
+  - first:
+      213: -300853609915187149
+    second: dungeon tileset calciumtrice_465
+  - first:
+      213: 2046572036118081370
+    second: dungeon tileset calciumtrice_466
+  - first:
+      213: -109798808154701202
+    second: dungeon tileset calciumtrice_467
+  - first:
+      213: 6102949410318404991
+    second: dungeon tileset calciumtrice_468
+  - first:
+      213: -5908861425015367675
+    second: dungeon tileset calciumtrice_469
+  - first:
+      213: 3453021430885056082
+    second: dungeon tileset calciumtrice_470
+  - first:
+      213: -1347904571631082530
+    second: dungeon tileset calciumtrice_471
+  - first:
+      213: -256037485076389159
+    second: dungeon tileset calciumtrice_472
+  - first:
+      213: 3760961111696890556
+    second: dungeon tileset calciumtrice_473
+  - first:
+      213: -6735193518681533523
+    second: dungeon tileset calciumtrice_474
+  - first:
+      213: -5365049680347579008
+    second: dungeon tileset calciumtrice_475
+  - first:
+      213: -705054276611327356
+    second: dungeon tileset calciumtrice_476
+  - first:
+      213: -7714223805422775756
+    second: dungeon tileset calciumtrice_477
+  - first:
+      213: -7603571054867510875
+    second: dungeon tileset calciumtrice_478
+  - first:
+      213: -6497853084685272312
+    second: dungeon tileset calciumtrice_479
+  - first:
+      213: -7970170931783768881
+    second: dungeon tileset calciumtrice_480
+  - first:
+      213: -2174213774339844581
+    second: dungeon tileset calciumtrice_481
+  - first:
+      213: -8508682692390177829
+    second: dungeon tileset calciumtrice_482
+  - first:
+      213: -1408847658119408621
+    second: dungeon tileset calciumtrice_483
+  - first:
+      213: -5440029143963686303
+    second: dungeon tileset calciumtrice_484
+  - first:
+      213: 5565925076510911107
+    second: dungeon tileset calciumtrice_485
+  - first:
+      213: 573769750386190181
+    second: dungeon tileset calciumtrice_486
+  - first:
+      213: 8222039109596107295
+    second: dungeon tileset calciumtrice_487
+  - first:
+      213: -3743850516079126126
+    second: dungeon tileset calciumtrice_488
+  - first:
+      213: 3305814490405544315
+    second: dungeon tileset calciumtrice_489
+  - first:
+      213: -9190931434835656971
+    second: dungeon tileset calciumtrice_490
+  - first:
+      213: 265218546993636354
+    second: dungeon tileset calciumtrice_491
+  - first:
+      213: 2386414822729202948
+    second: dungeon tileset calciumtrice_492
+  - first:
+      213: -3732456117464056394
+    second: dungeon tileset calciumtrice_493
+  - first:
+      213: -8413625519298012140
+    second: dungeon tileset calciumtrice_494
+  - first:
+      213: 8770856519905700914
+    second: dungeon tileset calciumtrice_495
+  - first:
+      213: 1539489245502228517
+    second: dungeon tileset calciumtrice_496
+  - first:
+      213: 1704891700720579738
+    second: dungeon tileset calciumtrice_497
+  - first:
+      213: -8351010011271993721
+    second: dungeon tileset calciumtrice_498
+  - first:
+      213: -7944428431915695755
+    second: dungeon tileset calciumtrice_499
+  - first:
+      213: 8011364989228723020
+    second: dungeon tileset calciumtrice_500
+  - first:
+      213: -5226731620391029262
+    second: dungeon tileset calciumtrice_501
+  - first:
+      213: 6978459596403209319
+    second: dungeon tileset calciumtrice_502
+  - first:
+      213: -4657250743170510754
+    second: dungeon tileset calciumtrice_503
+  - first:
+      213: -5293295380974826651
+    second: dungeon tileset calciumtrice_504
+  - first:
+      213: 7187249797693760988
+    second: dungeon tileset calciumtrice_505
+  - first:
+      213: -8487657828793096486
+    second: dungeon tileset calciumtrice_506
+  - first:
+      213: -6256650451967792518
+    second: dungeon tileset calciumtrice_507
+  - first:
+      213: 2271397842350158729
+    second: dungeon tileset calciumtrice_508
+  - first:
+      213: 613694242437439553
+    second: dungeon tileset calciumtrice_509
+  - first:
+      213: 623749406598732290
+    second: dungeon tileset calciumtrice_510
+  - first:
+      213: -899609533354774108
+    second: dungeon tileset calciumtrice_511
+  - first:
+      213: 5249329889372206977
+    second: dungeon tileset calciumtrice_512
+  - first:
+      213: 5418306726556587227
+    second: dungeon tileset calciumtrice_513
+  - first:
+      213: 8879631981972789840
+    second: dungeon tileset calciumtrice_514
+  - first:
+      213: -2432159794229656095
+    second: dungeon tileset calciumtrice_515
+  - first:
+      213: -7889667017023360082
+    second: dungeon tileset calciumtrice_516
+  - first:
+      213: -2811233208158512264
+    second: dungeon tileset calciumtrice_517
+  - first:
+      213: 1427143681504872643
+    second: dungeon tileset calciumtrice_518
+  - first:
+      213: -485912390660417653
+    second: dungeon tileset calciumtrice_519
+  - first:
+      213: -1550107484075657828
+    second: dungeon tileset calciumtrice_520
+  - first:
+      213: -2294856162009213129
+    second: dungeon tileset calciumtrice_521
+  - first:
+      213: 3143785585515296851
+    second: dungeon tileset calciumtrice_522
+  - first:
+      213: 3817750575106362849
+    second: dungeon tileset calciumtrice_523
+  - first:
+      213: -4029251072901835956
+    second: dungeon tileset calciumtrice_524
+  - first:
+      213: 5990091011769101530
+    second: dungeon tileset calciumtrice_525
+  - first:
+      213: -6365346145517507163
+    second: dungeon tileset calciumtrice_526
+  - first:
+      213: -5328295936784946303
+    second: dungeon tileset calciumtrice_527
+  - first:
+      213: -7260819468144020589
+    second: dungeon tileset calciumtrice_528
+  - first:
+      213: -3093907636459322134
+    second: dungeon tileset calciumtrice_529
+  - first:
+      213: -1631623055792908452
+    second: dungeon tileset calciumtrice_530
+  - first:
+      213: -4907594017926309609
+    second: dungeon tileset calciumtrice_531
+  - first:
+      213: 5845096755863848693
+    second: dungeon tileset calciumtrice_532
+  - first:
+      213: 6414362316375193729
+    second: dungeon tileset calciumtrice_533
+  - first:
+      213: 8895498282589033079
+    second: dungeon tileset calciumtrice_534
+  - first:
+      213: -4978232266993051474
+    second: dungeon tileset calciumtrice_535
+  - first:
+      213: -2629299013552322334
+    second: dungeon tileset calciumtrice_536
+  - first:
+      213: -3242426410637410769
+    second: dungeon tileset calciumtrice_537
+  - first:
+      213: -6854965575365027559
+    second: dungeon tileset calciumtrice_538
+  - first:
+      213: -1515628206706744779
+    second: dungeon tileset calciumtrice_539
+  - first:
+      213: -7237010502728470121
+    second: dungeon tileset calciumtrice_540
+  - first:
+      213: 3133785331081713705
+    second: dungeon tileset calciumtrice_541
+  - first:
+      213: 3159781245520477489
+    second: dungeon tileset calciumtrice_542
+  - first:
+      213: -532027636895139191
+    second: dungeon tileset calciumtrice_543
+  - first:
+      213: -6284136864207973823
+    second: dungeon tileset calciumtrice_544
+  - first:
+      213: -5707711043077462458
+    second: dungeon tileset calciumtrice_545
+  - first:
+      213: 8646880941157220991
+    second: dungeon tileset calciumtrice_546
+  - first:
+      213: -5765194946236456753
+    second: dungeon tileset calciumtrice_547
+  - first:
+      213: 4828751881755911136
+    second: dungeon tileset calciumtrice_548
+  - first:
+      213: -3207481475462835571
+    second: dungeon tileset calciumtrice_549
+  - first:
+      213: 3577985908750882299
+    second: dungeon tileset calciumtrice_550
+  - first:
+      213: 8670953146539088094
+    second: dungeon tileset calciumtrice_551
+  - first:
+      213: 2596062461501694546
+    second: dungeon tileset calciumtrice_552
+  - first:
+      213: -2453074690765006929
+    second: dungeon tileset calciumtrice_553
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 549
+        width: 45
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c062241628453900800000000000000
+      internalID: 663515848490770624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 549
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382ed0e15e2da57e0800000000000000
+      internalID: -1775875221550669181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 480
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702c9bf25da916e20800000000000000
+      internalID: 3342122638905033223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 501
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cffa3455229d260800000000000000
+      internalID: 7122762035266321520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 501
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58c22a9475dde7e0800000000000000
+      internalID: -1734495584688879523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 144
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6615dc34d08ab00800000000000000
+      internalID: 839935915363231477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 453
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daa33c58fce2bee0800000000000000
+      internalID: -1246673595385271595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 453
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9c30df8e81d38d0800000000000000
+      internalID: -2865106398981404217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 480
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6062fd74b56544db0800000000000000
+      internalID: -4808623552077027834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c85e9283961cc60800000000000000
+      internalID: 7836660516543368256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 389
+        width: 51
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b7738f49b3a8d20800000000000000
+      internalID: 3281500789498411800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 389
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1514daefb14739590800000000000000
+      internalID: -7668658076896116399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 337
+        width: 5
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767bef3bf91607e0800000000000000
+      internalID: -1799722434188052868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 389
+        width: 51
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74064e7014a7b4c10800000000000000
+      internalID: 2038857676039151687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 337
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be6022f2ec30b6f0800000000000000
+      internalID: -670969399055716687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 389
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c537d2b7186a1b0800000000000000
+      internalID: -5645682716818842529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 336
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b6a25f397f3cb40800000000000000
+      internalID: 5459479388148624285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 336
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9050826dcd320380800000000000000
+      internalID: -9006568352457404261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 355
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7539d259799be9410800000000000000
+      internalID: 1485828987772834647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 389
+        width: 63
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c1f8f750f28c10800000000000000
+      internalID: 2054468640663783476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 355
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1158069c9c0c010800000000000000
+      internalID: 1207186566880236009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 355
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e911acad455d950800000000000000
+      internalID: 6473173338084711956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 355
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38355e9a1929d6c0800000000000000
+      internalID: -4118215189951334340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 355
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5769205478977be0800000000000000
+      internalID: -1479546327239399589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 389
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9713df20b645a8450800000000000000
+      internalID: 6091774264560398713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 355
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf764dec8e65d920800000000000000
+      internalID: 3014437077149712303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 352
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b73d169e1e451d70800000000000000
+      internalID: 9013196122526398386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_27
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 352
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367fa6bc6fa5a81e0800000000000000
+      internalID: -2194841852368455837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 325
+        width: 47
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a14cd50728c9fbe0800000000000000
+      internalID: -1442902135667932762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 325
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1690bccd9ca565a0800000000000000
+      internalID: -6528622291059698149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 325
+        width: 65
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb38fb94500a9f90800000000000000
+      internalID: -6946239111871579164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 325
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974b7ab658887790800000000000000
+      internalID: -7532120470699948138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 325
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f39b691194051e0800000000000000
+      internalID: -2211187077146919092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 325
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee29b90d560e2190800000000000000
+      internalID: -7985438092616454420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_34
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 325
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8165710a37feb0800000000000000
+      internalID: -4686213109317006248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 325
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef1ae9f7a6a9ebd0800000000000000
+      internalID: -2600364069447131167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_36
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 325
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca5a58250406c40800000000000000
+      internalID: 5503469467820469252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_37
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 325
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c62a2451970ad60800000000000000
+      internalID: 7899446878627064943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c141b0b84b4d720800000000000000
+      internalID: 2870117371821169697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 306
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a271440d55ba9cc0800000000000000
+      internalID: -3703448332450827613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_40
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 306
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43445b5420cd3db20800000000000000
+      internalID: 3158109666034402356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_41
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 313
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94bca5a504d6e6f0800000000000000
+      internalID: -655603575016344418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 307
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4ab60920df7b180800000000000000
+      internalID: -9099526334624062265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_43
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 280
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6190d8b7731ad6310800000000000000
+      internalID: 1399952318850205974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 288
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2318a7ad231775760800000000000000
+      internalID: 7446544972108169522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 288
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c862d1cc91c4a90800000000000000
+      internalID: -7328454129185551308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 288
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de39a355822ef06d0800000000000000
+      internalID: -3021948162085841939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 288
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37feec8bdb91c5b40800000000000000
+      internalID: 5430243553342058355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb7d28c508988f00800000000000000
+      internalID: 1119311658002250686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 261
+        width: 45
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf64c386ed580bb0800000000000000
+      internalID: -4969618944168792115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 261
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781f4a3c8478d4bb0800000000000000
+      internalID: -4950151668820545145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 261
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f8cbb75232424a0800000000000000
+      internalID: -6619126908431069325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 261
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc9799d7d2df1450800000000000000
+      internalID: 6061795447974370507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 261
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fedc98afe028ce0800000000000000
+      internalID: -1404543664569585841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 261
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec66f0d7e96937790800000000000000
+      internalID: -7533512144213547314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_55
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 261
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca10321b995e1a40800000000000000
+      internalID: 5340804730667932366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_56
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 261
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acebf4b16a4353e40800000000000000
+      internalID: 5635468396751470282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 261
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9defd13c2ec566860800000000000000
+      internalID: 7522802356574879449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_58
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 261
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1a3b3537b047a10800000000000000
+      internalID: 1906161132237988265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f6b0db1bb8c6b0800000000000000
+      internalID: -5275761235324374780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 240
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3985ad085220fb560800000000000000
+      internalID: 7331581078481295507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaab2aa7ec1c5570800000000000000
+      internalID: 8456665981612960510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 240
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1292ca91374e1d0800000000000000
+      internalID: -3322404070992829996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 240
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d257a756f28a424f0800000000000000
+      internalID: -854373107774098131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97698a43ff85108b0800000000000000
+      internalID: -5187767442630732167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 240
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37357c1c0e3dbf9d0800000000000000
+      internalID: -2739362986047614093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_66
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 240
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95af714d5f9cae320800000000000000
+      internalID: 2588102993540282969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 240
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2087c1f121a80b950800000000000000
+      internalID: 6462817275712665602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_68
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 240
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be165825bdeccceb0800000000000000
+      internalID: -4698152869876637205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_69
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 240
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7103bd20b30b6520800000000000000
+      internalID: 2696252857127207290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_70
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 240
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3bb900502d6620800000000000000
+      internalID: 2768904874035460988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_71
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 240
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ae65550629eeb0800000000000000
+      internalID: -4690175732579654842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 240
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fcda8fc0c786a70800000000000000
+      internalID: 8820436265358708484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_73
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc9f2a2a8105e320800000000000000
+      internalID: 2586475253919095988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60d2ce9d9e9619e0800000000000000
+      internalID: -1650957813574086548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a2d6c55d65f6b60800000000000000
+      internalID: 7741501758851852865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 213
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7ed37082b03f990800000000000000
+      internalID: -7353521500017793117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_77
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 213
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c04bffb085536a0800000000000000
+      internalID: -6470168481089975195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_78
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 213
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec08c9206b5bade10800000000000000
+      internalID: 2223289159393247438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_79
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 213
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eb67feec663bfa0800000000000000
+      internalID: -5786168057274122712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_80
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 213
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af628c7138569f5d0800000000000000
+      internalID: -3028277660715833606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_81
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 213
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5943fe51a2866d90800000000000000
+      internalID: -7104847732536030886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_82
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 213
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52437ddd886fe2630800000000000000
+      internalID: 3904328994674652197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_83
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8664d273424734b30800000000000000
+      internalID: 4270384570570720872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 181
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11ea9a3e003f0b30800000000000000
+      internalID: 4255673010559312154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba92203c6dcc5e570800000000000000
+      internalID: 8495421494871075243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_86
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa9ef87d2cdd9a0800000000000000
+      internalID: -6206590480358462843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_87
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a3b14555c76300800000000000000
+      internalID: 245381674680166824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_88
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9069d8131986470800000000000000
+      internalID: 8388113947992394149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_89
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4765ac0de94467c0800000000000000
+      internalID: -4079054080022583476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_90
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 181
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ce4f3c307c4e2a0800000000000000
+      internalID: -6709018725888758698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_91
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedce7ef9ad64bff0800000000000000
+      internalID: -21271521343386133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa68ce6086a07510800000000000000
+      internalID: 1544917742732733180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e497c98f3368d90800000000000000
+      internalID: -7095927020005536207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_94
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 160
+        width: 94
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8912cd8acfe5b80800000000000000
+      internalID: -8404002052448872195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_95
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 181
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e400d66ec36229980800000000000000
+      internalID: -8533716300907872178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_96
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 192
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead59b2120781f3d0800000000000000
+      internalID: -3174607819345666642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_97
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 192
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47af355601648e7b0800000000000000
+      internalID: -5194825133938443660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_98
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 192
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f361679e6b27b510800000000000000
+      internalID: 1564767149520675831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0d8be7a29feda40800000000000000
+      internalID: 5395023364546416800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_100
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 192
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a172521f1dd0d450800000000000000
+      internalID: 6111627819862880672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_101
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 160
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6584e19ed2eac1870800000000000000
+      internalID: 8654984096107087958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_102
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 192
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae819e07b3a786850800000000000000
+      internalID: 6370476068631550186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_103
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 192
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f21205df1a196f0800000000000000
+      internalID: -679583959413084338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_104
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a6bac4c6d3b68d0800000000000000
+      internalID: -2852118403657012676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_105
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 192
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac4b99b8cbf66530800000000000000
+      internalID: 3848039771160661154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_106
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 160
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3fdbdfbd3a0e490800000000000000
+      internalID: -7718989596062780420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_107
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 160
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da22b5545636b10800000000000000
+      internalID: 1973532410274557259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_108
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 192
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9599e988a57b79aa0800000000000000
+      internalID: -6154248766311458471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_109
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984f2969c184f650800000000000000
+      internalID: 6265775683632318621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_110
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 160
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df525239bb2c5bbe0800000000000000
+      internalID: -1462048393128499715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_111
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 192
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141168a73691ae930800000000000000
+      internalID: 4173175919760249153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 149
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc69c3eef93cba2c0800000000000000
+      internalID: -4419223517669845297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_113
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 149
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79b86cc216c0ad70800000000000000
+      internalID: 9052453035055823228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d928f861d6f2b0800000000000000
+      internalID: -5551019241917262143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8590338da01c9590800000000000000
+      internalID: -7666234128275040886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_116
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e16728c2bbd8280800000000000000
+      internalID: -9039363077220983141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_117
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b564ea5591904f0800000000000000
+      internalID: -862129997877978288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_118
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5a7373e9408620800000000000000
+      internalID: 2774298611704027972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_119
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 112
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece6f9dd06709550800000000000000
+      internalID: 6165557691733699823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_120
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 112
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1cf6a95f4d8b260800000000000000
+      internalID: 7113669762754789833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_121
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 112
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bee3850e6e34c30800000000000000
+      internalID: 4342568316942871320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0eee486e1fcf80800000000000000
+      internalID: -8084209372757094651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248c3da8623ef7da0800000000000000
+      internalID: -5944783228428367806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_124
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 112
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05ea49bb65943e90800000000000000
+      internalID: -7046843227025251059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_125
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 112
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b6d9c9429630880800000000000000
+      internalID: -8645951253653918916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff43210a0d4568e70800000000000000
+      internalID: 9117067750673626367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_127
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 112
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4513c090c16b5bb0800000000000000
+      internalID: -4946252286046038705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_128
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 112
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961582993fd69da50800000000000000
+      internalID: 6546384426373763433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f919e7970f7780800000000000000
+      internalID: -8683213207514778883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 101
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a4209244572e70800000000000000
+      internalID: 9090327017733530733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_131
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 101
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ac2d0d023dddd10800000000000000
+      internalID: 2152108334848854605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_132
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 101
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56acc8038fc524270800000000000000
+      internalID: 8233245289822866021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_133
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 101
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5de7579c0b6ca10800000000000000
+      internalID: 1929423869680997826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_134
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 101
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86afb6f4a1419860800000000000000
+      internalID: 7534875828337747596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_135
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 101
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0c3e5cee2982550800000000000000
+      internalID: 6136316046512210141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_136
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 80
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1e60cd016cae840800000000000000
+      internalID: 5254229690994319824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_137
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78f44fef3e48db20800000000000000
+      internalID: 3159361175104583802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4284418aa35050800000000000000
+      internalID: 5788157418278113118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_139
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c17283a57096f80800000000000000
+      internalID: -8112945169660699638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_140
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 80
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f68891af4f47ac0800000000000000
+      internalID: -3858189625742299354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_141
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 79
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722e4cd4c76f31c20800000000000000
+      internalID: 3176153175967457831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_142
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 80
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1633fa625da310800000000000000
+      internalID: 1417880076991995685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_143
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d301ee986ed3a430800000000000000
+      internalID: 3793119852099601365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_144
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fba03fb95982f50800000000000000
+      internalID: 6856894929701617502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_145
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 80
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b1962f5a3ee3e0800000000000000
+      internalID: -2022615002299387845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_146
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef2fdbee055e9010800000000000000
+      internalID: 1197488073502306283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_147
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8285f42aade1010800000000000000
+      internalID: 1161606144558901437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_148
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186fce314d562650800000000000000
+      internalID: 6207751671184844816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_149
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0714cf94489874a0800000000000000
+      internalID: -6595354233778465013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_150
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03440c1cc43a5380800000000000000
+      internalID: -8981808455589018870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_151
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f600f69393480150800000000000000
+      internalID: 5838991218057414392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_152
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 64
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b73bf33310e2f880800000000000000
+      internalID: -8578547967106271303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_153
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b64d1fa8e42f460800000000000000
+      internalID: 7273962706826455815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_154
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 53
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d28eaa43bdf310800000000000000
+      internalID: 1440504589165189470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_155
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 53
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1073b6a3afb2f0930800000000000000
+      internalID: 4111553338534475521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_156
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 53
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129a4162d054a14e0800000000000000
+      internalID: -2010218360891725535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_157
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 53
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524ad13e0aff19740800000000000000
+      internalID: 5157184114786149413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_158
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 53
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c58f85bf96f6d30800000000000000
+      internalID: 4426873486978866213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_159
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 53
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea6cfdf52da26640800000000000000
+      internalID: 5071806509059173099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_160
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 53
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ba3fa2abc648320800000000000000
+      internalID: 2559290035093613470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_161
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 53
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504351fd32a3473b0800000000000000
+      internalID: -5515719717881039867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_162
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a92971770acd8a0800000000000000
+      internalID: -6278967347104277923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_163
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 22
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bf605b515fa7010800000000000000
+      internalID: 1187530925345798951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_164
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cb8043ab7df86b0800000000000000
+      internalID: -5291773842400166843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_165
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90e49112074e7650800000000000000
+      internalID: 6232497008537821343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_166
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902a581bf10b19e00800000000000000
+      internalID: 1049813838322835977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_167
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 22
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba936237fd7b89c10800000000000000
+      internalID: 2060598999859476907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_168
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 22
+        width: 37
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b88a5a668b371550800000000000000
+      internalID: 6131434866184194229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_169
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd12274535d10710800000000000000
+      internalID: 1657840562652454357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_170
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 22
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39630820d5efc3a80800000000000000
+      internalID: -8485627922445486445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_171
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 33
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a53ade6809bb750800000000000000
+      internalID: 6321805411131546201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_172
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 22
+        width: 35
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4733f1363681705e0800000000000000
+      internalID: -1943557899043261580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_173
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 20
+        width: 153
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9f88f48e916bf90800000000000000
+      internalID: -6938329690360186452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_174
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2291f3e6e4d6333b0800000000000000
+      internalID: -5533959333483701982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_175
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1222138f4b6df3f50800000000000000
+      internalID: 6863440429882352161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_176
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 32
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b814bc47532b4c0800000000000000
+      internalID: -4273294320678630512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_177
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 22
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e18bef630deaa70800000000000000
+      internalID: 8840232053195152927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_178
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9514488da6bca570800000000000000
+      internalID: 8479353054863562140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_179
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3792c0333847b9020800000000000000
+      internalID: 2349599737449818483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_180
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 6
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eefb83d907c7200800000000000000
+      internalID: 179141905752256128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_181
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7655c0349a74ddca0800000000000000
+      internalID: -5990553137032964761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_182
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa60a4bb75c1fb50800000000000000
+      internalID: 6625293661940771498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_183
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b308f8e9fc7f3120800000000000000
+      internalID: 2395770939581662129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_184
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6af5d51c12c13d0800000000000000
+      internalID: -3234673317979904285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_185
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 6
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028239b6786d2ed20800000000000000
+      internalID: 3306440953557100576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_186
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d1956ee73b18670800000000000000
+      internalID: 8539303726083022130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_187
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c222b73a4ffd2fa0800000000000000
+      internalID: -5823718048893099327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_188
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5c713c495af8b90800000000000000
+      internalID: -7237384017814239748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_189
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f936074875cf54f0800000000000000
+      internalID: -837733885289285127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice_190
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284f6b30a28ed05c0800000000000000
+      internalID: -4247483606391917438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1d8dfd0020f8f05499ac22ccc2643d98
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
